@@ -16,6 +16,7 @@ This is a short guide to help you start developing an anonymous developer accoun
 5. Create a new [Twitter](https://twitter.com) account with your new identity
 6. Create a new [Reddit](https://www.reddit.com/) account with your new identity
     * Use a request subreddit of your choice to get a new unique pfp for your new anon account
-7. Create a cryptpad.fr and a hackmd account for all your note taking, and encrypted storage needs
-8. Go on privacytools.io for other tools that you can use to keep yourself private
+7. Create a [cryptpad.fr](https://cryptpad.fr/) and a hackmd account for all your note taking, and encrypted storage needs
+8. Go on [privacytools.io](https://www.privacytools.io/) for other tools that you can use to keep yourself private
 9. (Optional) Install ublock origin, privacy badger and https everywhere in your new browser profile
+10. Extra reading and considerations: [0xngmi's guide for staying anon](https://hackmd.io/YKjhguQES_KeKYs-v1YC1w?view)
